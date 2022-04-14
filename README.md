@@ -20,7 +20,7 @@
 
 ---
 
-# Reza
+# Satganz
 ## Information
 > HyBot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
