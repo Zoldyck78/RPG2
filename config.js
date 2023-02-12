@@ -18,7 +18,6 @@ global.APIs = { // API Prefix
   bsbt: 'https://bsbt-api-rest.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
-  zekais: 'http://zekais-api.herokuapp.com',
   hardianto: 'https://hardianto-chan.herokuapp.com',
   pencarikode: 'https://pencarikode.xyz', 
   erdwepe: 'https://erdwpe-api.herokuapp.com',
@@ -35,7 +34,6 @@ global.APIKeys = { // APIKey Here
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'MIMINGANZ',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 //cari apikey sendiri ya gaes yak
@@ -43,8 +41,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `Satgans Devs`
-global.wm = 'Satgans Devs'
+global.author = `𝙖𝙡𝙙𝙤 𝙗𝙚𝙡𝙪𝙢 𝙫𝙖𝙠𝙨𝙞𝙣`
+global.wm = '𝙓𝙮𝙪𝙧𝙪𝙪 𝘽𝙤𝙩'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://www.instagram.com/reteam.id/'
