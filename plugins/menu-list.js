@@ -28,14 +28,7 @@ const defaultMenu = {
 │☂︎ Status: --
 │☂︎ Limit: %limit
 │☂︎ Money: %money
-│☂︎ Exp: %totalexp
-│☂︎ Level: %level
-│☂︎ Role: %role
 ╰────────────⬣
-⃝▣──「 *INFO CMD* 」───⬣
-│ *Ⓟ* = Premium
-│ *Ⓛ* = Limit
-▣────────────⬣
 %readmore`.trimStart(), 
  header: '⃝▣──「 %category 」───⬣',
  body: '│○ %cmd %isPremium %islimit',
@@ -239,7 +232,7 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
               {
                 "rows": [{
                   "title": `OWNER BOT`,
-                  "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
+                  "description": "Nomor Pemilik Bot Chat P/Meminta Save Itu Lebih Baik:v",
                   "rowId": `.owner`
                 },{
                   "title": "INFO BOT",
@@ -310,7 +303,7 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
                   "rowId": `${_p}? maker`
                 }, {
                   "title": "☰ OWNER MENU",
-                  "description": "Menampilkan Menu Owner",
+                  "description": "Menampilkan Menu Owner/Pemilik Bot",
                   "rowId": `${_p}? owner`
                 }, {
                   "title": "☰ PENGUBAH SUARA",
